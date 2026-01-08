@@ -4,8 +4,8 @@ A production-style ETL (Extract–Transform–Load) pipeline built with Python t
 
 Project Overview
 
-This project demonstrates how a real-world data engineering ETL pipeline works end-to-end:
-    Incoming Data → Extract → Transform → Load → Report
+This project demonstrates how a real-world data engineering ETL pipeline works end-to-end:        
+        Incoming Data → Extract → Transform → Load → Report
 
 Key highlights:
 
@@ -99,5 +99,5 @@ Author
 
 Asad
 Data Engineering Enthusiast
-    GitHub: (add link)
-    LinkedIn: (add link)
+    GitHub: "https://github.com/jarvis-tech-coder"
+    LinkedIn: ""
